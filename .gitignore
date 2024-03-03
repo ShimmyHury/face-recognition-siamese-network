@@ -1,0 +1,6 @@
+venv\**
+Dataset
+trained_model
+reference.png
+.idea/**
+__pycache__/**
